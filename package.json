@@ -1,0 +1,22 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gatsby-config.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reach/dialog": "^0.8.6",
+    "@reach/tabs": "^0.8.6",
+    "@reach/visually-hidden": "^0.8.6",
+    "gatsby": "^2.19.39",
+    "react": "^16.13.0",
+    "react-dom": "npm:@hot-loader/react-dom@^16.12.0",
+    "react-netlify-identity": "^0.2.3",
+    "react-netlify-identity-widget": "^0.2.7"
+  }
+}
